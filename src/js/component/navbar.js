@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
-/* import images from "../../img"; */
+/* import images from "../../img"; */ 
 
 export const Navbar = () => {
 	return (
 		<nav class="navbar navbar-light bg-light">
   <div class="container">
     <a class="navbar-brand" href="#">
-      <img src="" alt="" width="30" height="24"/>
+      <img src="/workspace/react-hello-webapp/src/img/Starwars_logo.png" alt="" width="30" height="24"/>
     </a>
   </div>
   <li class="nav-item dropdown">
